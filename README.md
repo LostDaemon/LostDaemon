@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @LostDaemon
+- ⚙️ Focused on system design and high-load architecture
 - 👀 I’m interested in Backend (.Net, ASP, MS SQL, Mongo), Frontend (Angular), Unity3D
-- 🌱 I’m currently learning Angular, CSS
+- 🎓 Starting my journey in mentoring
 
 <!---
 LostDaemon/LostDaemon is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
